@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JS monogram logo">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffe088"/>
+      <stop offset="45%" stop-color="#f2ca50"/>
+      <stop offset="100%" stop-color="#d4af37"/>
+    </linearGradient>
+    <linearGradient id="goldDim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9c349"/>
+      <stop offset="100%" stop-color="#a8842a"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="52" height="52" rx="14" fill="#0e0e0e" stroke="url(#gold)" stroke-width="2.5"/>
+  <rect x="11.5" y="11.5" width="41" height="41" rx="10" fill="none" stroke="url(#goldDim)" stroke-width="1"/>
+  <text x="32" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" letter-spacing="-2" fill="url(#gold)">JS</text>
+  <circle cx="44.5" cy="21.5" r="2.2" fill="#47ea7a"/>
+</svg>
